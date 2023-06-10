@@ -1,0 +1,61 @@
+{
+  "Gruplar": {
+    "1": {
+      "grupAdi": "Android Online",
+      "grupSaati": 40
+    },
+    "300": {
+      "grupAdi": "IOS Grubu",
+      "grupSaati": 60
+    },
+    "500": {
+      "grupAdi": "Java Grubu",
+      "grupSaati": 60
+    }
+  },
+  "OgrenciListesi": {
+    "1": {
+      "11111111111": {
+        "ogrenciAdSoyad": "Serif GUNGOR",
+        "ogrenciGrupId": 1,
+        "ogrenciTcNo": "11111111111"
+      },
+      "22222222222": {
+        "ogrenciAdSoyad": "Yakup Mert",
+        "ogrenciGrupId": 1,
+        "ogrenciTcNo": "22222222222"
+      }
+    },
+    "300": {
+      "22222222222": {
+        "ogrenciAdSoyad": "YAKUP MERT",
+        "ogrenciGrupId": 300,
+        "ogrenciTcNo": "22222222222"
+      }
+    }
+  },
+  "Yoklamalar": [
+    null,
+    {
+      "10_6_2023": {
+        "11111111111": {
+          "ogrenciAdSoyad": "Serif GUNGOR",
+          "ogrenciKatilimDurumu": true,
+          "ogrenciTcNo": "11111111111"
+        },
+        "22222222222": {
+          "ogrenciAdSoyad": "Yakup Mert",
+          "ogrenciKatilimDurumu": true,
+          "ogrenciTcNo": "22222222222"
+        }
+      },
+      "4_6_2023": {
+        "11111111111": {
+          "ogrenciAdSoyad": "Serif GUNGOR",
+          "ogrenciKatilimDurumu": true,
+          "ogrenciTcNo": "11111111111"
+        }
+      }
+    }
+  ]
+}
